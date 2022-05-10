@@ -11,3 +11,7 @@ Dit project gaat niet succesvol runnen omdat er 2 library files in gitignore zit
 ![alt text](https://user-images.githubusercontent.com/47556281/167383038-0d8fdbc6-3611-4c2e-92f2-5fa0339e4cfc.PNG )
 
 ![alt text](https://user-images.githubusercontent.com/47556281/167382993-57e963bb-df3e-41c5-b13b-6bc352de7d6a.PNG )
+
+![alt text](https://user-images.githubusercontent.com/47556281/167588881-a89ebf40-f39f-4a81-9500-bce8dde64753.mov )
+
+
